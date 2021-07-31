@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NspThumbnailExtract": {
+      "commandName": "Project",
+      "commandLineArgs": "\"g:\\RetroArch Forwarder.nsp\""
+    }
+  }
+}
